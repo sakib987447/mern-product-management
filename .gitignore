@@ -1,0 +1,6 @@
+Backend/node_modules/
+Backend/.env
+
+Frontend/book_management/node_modules/
+Frontend/book_management/.env
+Frontend/book_management/dist/
