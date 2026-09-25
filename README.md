@@ -8,9 +8,9 @@ The application allows users to manage products through a REST API and displays 
 
 ## 🔗 Live Demo
 
-👉 [View Live Project](YOUR_LIVE_LINK_HERE)
+👉 [View Live Project](https://mern-product-management-sigma.vercel.app/)
 
----
+
 
 ## 📸 Screenshot
 
