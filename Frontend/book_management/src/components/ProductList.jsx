@@ -7,7 +7,7 @@ const ProductList = () => {
 
   const fetchProducts = async () => {
     try {
-      const response = await fetch(" http://localhost:5000/api/products/find");
+      const response = await fetch("https://mern-product-management-backend-qgra.onrender.com/api/products/find");
       const data = await response.json();
       setProduct(data);
     } catch (error) {
